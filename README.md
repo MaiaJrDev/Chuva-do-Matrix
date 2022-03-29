@@ -1,6 +1,6 @@
 # Chuva do Matrix
 
-## Feito em HTML JS e Css
+## Feito em HTML JS e Css , seguindo os passos do tutorial do Willian Justen
 
 ## link para visualizar o projeto
 
